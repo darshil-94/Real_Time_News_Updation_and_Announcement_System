@@ -42,9 +42,11 @@ Key goals:
 
 ![Log_in](https://github.com/user-attachments/assets/2e63871f-ab7c-4f36-bc8e-072d04c43d23)
 
+![Home_page_1](https://github.com/user-attachments/assets/bca8f012-9028-4b84-a828-ddaf447c1ccf)
 
+![Home_page_2](https://github.com/user-attachments/assets/603995d7-6445-4555-b4e3-4f98c708ce59)
 
-
+![Chat_bot](https://github.com/user-attachments/assets/7a1acb62-4f84-47cc-bd6d-f7be3377db3d)
 
 
 ---
