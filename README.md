@@ -113,7 +113,7 @@ Key goals:
 4. **Run the application**
 
    ```bash
-   uvicorn app.main:app --reload
+   python app.py
    ```
 
 ---
