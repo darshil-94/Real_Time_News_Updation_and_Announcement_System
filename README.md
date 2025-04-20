@@ -6,7 +6,7 @@ A voice-interactive news update system that scrapes, processes, and announces th
 
 - [Introduction](#introduction)
 
-- [ScreenShots](#screenshot)
+- [ScreenShots](#screenshots)
 
 - [Features](#features)
 
@@ -167,7 +167,5 @@ This project is licensed under the D&P License.
 ## Contact
 
 Darshil Patel – [darshilpatel.ds9472@gmail.com](mailto\:darshilpatel.ds9472@gmail.com)\
-Project Link:
-
-[https://github.com/darshil94/Real\_Time\_News\_Updation\_and\_Announcement\_System](https://github.com/darshil94/Real_Time_News_Updation_and_Announcement_System)
+Project Link: [https://github.com/darshil94/Real\_Time\_News\_Updation\_and\_Announcement\_System](https://github.com/darshil94/Real_Time_News_Updation_and_Announcement_System)
 
