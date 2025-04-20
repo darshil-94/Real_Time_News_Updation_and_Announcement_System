@@ -1,0 +1,20 @@
+{
+    "websites": [
+      {
+        "url": "https://www.bbc.com/",
+        "Container": "a[data-testid='internal-link']",
+        "Title": "h2[data-testid='card-headline']",
+        "Description": "p[data-testid='card-description']", 
+        "source_name": "BBC_News",
+        "Date": "span[data-testid='card-metadata-lastupdated']"
+      },
+      {
+        "url": "https://pulse.zerodha.com/",
+        "Title": "h2.title",
+        "Description": "div.desc",
+        "source_name": "zerodh_news",
+        "Date": "span.date"
+      }
+    ]
+  }
+  

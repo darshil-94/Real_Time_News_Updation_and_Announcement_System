@@ -1,0 +1,10 @@
+.env
+Agent/
+db/
+documents/
+incomplete_news.txt
+news.txt
+requirements.txt
+Saperate/f_model/
+audio/
+Saperate/Final_df.csv
